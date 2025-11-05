@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/accounts/abi/bind/v2/internal/contracts/solc_errors"
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/eth/ethconfig"
 	"github.com/bestyourwallet/op-geth/ethclient"
 	"github.com/bestyourwallet/op-geth/ethclient/simulated"

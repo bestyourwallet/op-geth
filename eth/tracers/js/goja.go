@@ -35,7 +35,7 @@ import (
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/common/hexutil"
 	"github.com/bestyourwallet/op-geth/core/vm"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	jsassets "github.com/bestyourwallet/op-geth/eth/tracers/js/internal/tracers"
 )
 

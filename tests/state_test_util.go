@@ -37,7 +37,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/tracing"
 	"github.com/bestyourwallet/op-geth/core/types"
 	"github.com/bestyourwallet/op-geth/core/vm"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/ethdb"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rlp"

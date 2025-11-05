@@ -27,7 +27,7 @@ import (
 	"github.com/bestyourwallet/op-geth/accounts/abi/abigen"
 	"github.com/bestyourwallet/op-geth/cmd/utils"
 	"github.com/bestyourwallet/op-geth/common/compiler"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/internal/flags"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/urfave/cli/v2"

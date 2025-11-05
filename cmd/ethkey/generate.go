@@ -24,7 +24,7 @@ import (
 
 	"github.com/bestyourwallet/op-geth/accounts/keystore"
 	"github.com/bestyourwallet/op-geth/cmd/utils"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/google/uuid"
 	"github.com/urfave/cli/v2"
 )

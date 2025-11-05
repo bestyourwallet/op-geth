@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/state"
 	"github.com/bestyourwallet/op-geth/core/stateless"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/internal/ethapi"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/rlp"

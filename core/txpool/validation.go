@@ -25,7 +25,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core"
 	"github.com/bestyourwallet/op-geth/core/state"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto/kzg4844"
+	"github.com/ethereum/go-ethereum/crypto/kzg4844"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/params"
 )

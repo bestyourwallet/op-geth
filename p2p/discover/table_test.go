@@ -28,7 +28,7 @@ import (
 	"time"
 
 	"github.com/bestyourwallet/op-geth/common/mclock"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/internal/testlog"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/p2p/enode"

@@ -26,7 +26,7 @@ import (
 	"strings"
 
 	"github.com/bestyourwallet/op-geth/common"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/p2p"
 	"github.com/bestyourwallet/op-geth/rpc"

@@ -25,7 +25,7 @@ import (
 
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/common/math"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 )
 
 // MakeTopics converts a filter query argument list into a filter topic set.

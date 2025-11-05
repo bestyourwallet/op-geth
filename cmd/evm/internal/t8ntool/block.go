@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/common/math"
 	"github.com/bestyourwallet/op-geth/consensus/clique"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/urfave/cli/v2"
 )

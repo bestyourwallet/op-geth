@@ -16,7 +16,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/txpool/legacypool"
 	"github.com/bestyourwallet/op-geth/core/types"
 	"github.com/bestyourwallet/op-geth/core/types/interoptypes"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/event"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/triedb"

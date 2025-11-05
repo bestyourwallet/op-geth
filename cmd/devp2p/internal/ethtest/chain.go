@@ -37,7 +37,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/forkid"
 	"github.com/bestyourwallet/op-geth/core/state"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/eth/protocols/eth"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rlp"

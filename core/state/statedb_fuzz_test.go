@@ -34,7 +34,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/state/snapshot"
 	"github.com/bestyourwallet/op-geth/core/tracing"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/bestyourwallet/op-geth/trie"
 	"github.com/bestyourwallet/op-geth/triedb"

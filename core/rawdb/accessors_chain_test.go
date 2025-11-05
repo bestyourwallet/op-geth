@@ -29,7 +29,7 @@ import (
 
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/stretchr/testify/require"

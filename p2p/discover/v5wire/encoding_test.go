@@ -33,7 +33,7 @@ import (
 
 	"github.com/bestyourwallet/op-geth/common/hexutil"
 	"github.com/bestyourwallet/op-geth/common/mclock"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/p2p/enode"
 )
 

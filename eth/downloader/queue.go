@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/common/prque"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto/kzg4844"
+	"github.com/ethereum/go-ethereum/crypto/kzg4844"
 	"github.com/bestyourwallet/op-geth/eth/ethconfig"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/metrics"

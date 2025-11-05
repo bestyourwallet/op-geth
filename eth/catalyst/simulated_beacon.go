@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/txpool"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto/kzg4844"
+	"github.com/ethereum/go-ethereum/crypto/kzg4844"
 	"github.com/bestyourwallet/op-geth/eth"
 	"github.com/bestyourwallet/op-geth/event"
 	"github.com/bestyourwallet/op-geth/log"

@@ -27,7 +27,7 @@ import (
 	"github.com/bestyourwallet/op-geth/accounts/keystore"
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 )
 
 // ErrNotAuthorized is returned when an account is not properly unlocked.

@@ -21,7 +21,7 @@ import (
 
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/rawdb"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

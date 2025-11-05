@@ -41,7 +41,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/types"
 	"github.com/bestyourwallet/op-geth/core/vm"
 	"github.com/bestyourwallet/op-geth/core/vm/program"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/eth/tracers/logger"
 	"github.com/bestyourwallet/op-geth/ethdb"
 	"github.com/bestyourwallet/op-geth/ethdb/pebble"

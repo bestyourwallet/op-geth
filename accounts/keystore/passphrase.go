@@ -40,7 +40,7 @@ import (
 	"github.com/bestyourwallet/op-geth/accounts"
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/common/math"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/google/uuid"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"

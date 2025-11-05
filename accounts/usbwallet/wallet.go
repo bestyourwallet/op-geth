@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/accounts"
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/karalabe/hid"
 )

@@ -25,7 +25,7 @@ import (
 	"slices"
 
 	"github.com/bestyourwallet/op-geth/common"
-	"github.com/bestyourwallet/op-geth/crypto/kzg4844"
+	"github.com/ethereum/go-ethereum/crypto/kzg4844"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/holiman/uint256"

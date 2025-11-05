@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"github.com/bestyourwallet/op-geth/common"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/holiman/uint256"

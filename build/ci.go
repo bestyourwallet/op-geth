@@ -56,7 +56,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bestyourwallet/op-geth/crypto/signify"
+	"github.com/ethereum/go-ethereum/crypto/signify"
 	"github.com/bestyourwallet/op-geth/internal/build"
 	"github.com/bestyourwallet/op-geth/internal/download"
 	"github.com/bestyourwallet/op-geth/internal/version"

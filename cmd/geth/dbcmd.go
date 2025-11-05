@@ -35,7 +35,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core/rawdb"
 	"github.com/bestyourwallet/op-geth/core/state/snapshot"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/ethdb"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/rlp"

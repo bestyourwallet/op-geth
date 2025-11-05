@@ -24,7 +24,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/eth/protocols/eth"
 	"github.com/bestyourwallet/op-geth/eth/protocols/snap"
 	"github.com/bestyourwallet/op-geth/p2p"

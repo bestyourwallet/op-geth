@@ -25,7 +25,7 @@ import (
 	"github.com/bestyourwallet/op-geth/core"
 	"github.com/bestyourwallet/op-geth/core/state"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/event"
 	"github.com/bestyourwallet/op-geth/params"
 	"github.com/bestyourwallet/op-geth/rpc"

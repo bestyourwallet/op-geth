@@ -29,7 +29,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/log"
 	"github.com/bestyourwallet/op-geth/p2p/discover/v4wire"
 	"github.com/bestyourwallet/op-geth/p2p/enode"

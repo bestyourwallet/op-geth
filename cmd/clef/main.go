@@ -41,7 +41,7 @@ import (
 	"github.com/bestyourwallet/op-geth/common"
 	"github.com/bestyourwallet/op-geth/common/hexutil"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/internal/ethapi"
 	"github.com/bestyourwallet/op-geth/internal/flags"
 	"github.com/bestyourwallet/op-geth/log"

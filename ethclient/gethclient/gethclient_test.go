@@ -29,7 +29,7 @@ import (
 	"github.com/bestyourwallet/op-geth/consensus/ethash"
 	"github.com/bestyourwallet/op-geth/core"
 	"github.com/bestyourwallet/op-geth/core/types"
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/eth"
 	"github.com/bestyourwallet/op-geth/eth/ethconfig"
 	"github.com/bestyourwallet/op-geth/eth/filters"

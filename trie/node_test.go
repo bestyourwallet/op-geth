@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/bestyourwallet/op-geth/rlp"
 )
 
