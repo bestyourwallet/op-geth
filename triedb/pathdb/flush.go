@@ -20,10 +20,10 @@ import (
 	"bytes"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/trie/trienode"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/rawdb"
+	"github.com/bestyourwallet/op-geth/ethdb"
+	"github.com/bestyourwallet/op-geth/trie/trienode"
 )
 
 // nodeCacheKey constructs the unique key of clean cache. The assumption is held

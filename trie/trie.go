@@ -23,11 +23,11 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/trie/trienode"
-	"github.com/ethereum/go-ethereum/triedb/database"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/types"
+	"github.com/bestyourwallet/op-geth/log"
+	"github.com/bestyourwallet/op-geth/trie/trienode"
+	"github.com/bestyourwallet/op-geth/triedb/database"
 	"golang.org/x/sync/errgroup"
 )
 

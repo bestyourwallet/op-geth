@@ -25,9 +25,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/bestyourwallet/op-geth/ethdb"
+	"github.com/bestyourwallet/op-geth/log"
+	"github.com/bestyourwallet/op-geth/metrics"
 	"github.com/gofrs/flock"
 )
 

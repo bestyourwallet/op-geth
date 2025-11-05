@@ -19,9 +19,9 @@ package catalyst
 import (
 	"context"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core"
+	"github.com/bestyourwallet/op-geth/core/types"
 )
 
 // simulatedBeaconAPI provides a RPC API for SimulatedBeacon.

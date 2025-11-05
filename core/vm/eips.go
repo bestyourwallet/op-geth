@@ -21,9 +21,9 @@ import (
 	"math"
 	"sort"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/tracing"
+	"github.com/bestyourwallet/op-geth/params"
 	"github.com/holiman/uint256"
 )
 

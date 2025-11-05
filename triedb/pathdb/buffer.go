@@ -22,11 +22,11 @@ import (
 	"time"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/trie/trienode"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/rawdb"
+	"github.com/bestyourwallet/op-geth/ethdb"
+	"github.com/bestyourwallet/op-geth/log"
+	"github.com/bestyourwallet/op-geth/trie/trienode"
 )
 
 // buffer is a collection of modified states along with the modified trie nodes.

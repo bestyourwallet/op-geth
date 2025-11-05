@@ -24,12 +24,12 @@ import (
 	"sync"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/rawdb"
+	"github.com/bestyourwallet/op-geth/ethdb"
+	"github.com/bestyourwallet/op-geth/log"
+	"github.com/bestyourwallet/op-geth/metrics"
+	"github.com/bestyourwallet/op-geth/rlp"
 )
 
 // counter helps in tracking items and their corresponding sizes.

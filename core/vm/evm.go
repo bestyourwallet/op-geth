@@ -21,13 +21,13 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/state"
+	"github.com/bestyourwallet/op-geth/core/tracing"
+	"github.com/bestyourwallet/op-geth/core/types"
+	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/bestyourwallet/op-geth/log"
+	"github.com/bestyourwallet/op-geth/params"
 	"github.com/holiman/uint256"
 )
 

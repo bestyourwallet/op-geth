@@ -20,8 +20,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/bestyourwallet/op-geth/ethdb"
+	"github.com/bestyourwallet/op-geth/log"
 )
 
 var (

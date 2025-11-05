@@ -28,11 +28,11 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/bestyourwallet/op-geth/crypto/ecies"
+	"github.com/bestyourwallet/op-geth/p2p/pipes"
+	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/p2p/pipes"
-	"github.com/ethereum/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

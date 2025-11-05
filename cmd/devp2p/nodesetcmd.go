@@ -25,11 +25,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/bestyourwallet/op-geth/core"
+	"github.com/bestyourwallet/op-geth/core/forkid"
+	"github.com/bestyourwallet/op-geth/p2p/enr"
+	"github.com/bestyourwallet/op-geth/params"
+	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/urfave/cli/v2"
 )
 

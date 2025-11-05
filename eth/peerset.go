@@ -23,9 +23,9 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/eth/protocols/snap"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/bestyourwallet/op-geth/eth/protocols/eth"
+	"github.com/bestyourwallet/op-geth/eth/protocols/snap"
+	"github.com/bestyourwallet/op-geth/p2p"
 )
 
 var (

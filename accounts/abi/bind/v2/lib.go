@@ -30,12 +30,12 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/bestyourwallet/op-geth"
+	"github.com/bestyourwallet/op-geth/accounts/abi"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core/types"
+	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/bestyourwallet/op-geth/event"
 )
 
 // ContractEvent is a type constraint for ABI event types.

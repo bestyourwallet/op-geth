@@ -4,14 +4,14 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/beacon"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/consensus/misc/eip1559"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/consensus/beacon"
+	"github.com/bestyourwallet/op-geth/consensus/ethash"
+	"github.com/bestyourwallet/op-geth/consensus/misc/eip1559"
+	"github.com/bestyourwallet/op-geth/core"
+	"github.com/bestyourwallet/op-geth/core/rawdb"
+	"github.com/bestyourwallet/op-geth/core/types"
+	"github.com/bestyourwallet/op-geth/params"
 	"github.com/stretchr/testify/require"
 )
 

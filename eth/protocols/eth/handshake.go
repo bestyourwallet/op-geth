@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/core"
+	"github.com/bestyourwallet/op-geth/core/forkid"
+	"github.com/bestyourwallet/op-geth/metrics"
+	"github.com/bestyourwallet/op-geth/p2p"
 )
 
 const (

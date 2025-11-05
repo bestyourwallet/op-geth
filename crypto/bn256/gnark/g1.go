@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
+	"github.com/bestyourwallet/op-geth/common/bitutil"
 	"github.com/consensys/gnark-crypto/ecc/bn254"
-	"github.com/ethereum/go-ethereum/common/bitutil"
 )
 
 // G1 is the affine representation of a G1 group element.

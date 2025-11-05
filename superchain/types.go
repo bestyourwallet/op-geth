@@ -1,7 +1,7 @@
 package superchain
 
 import (
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/bestyourwallet/op-geth/common"
 )
 
 type ChainConfig struct {

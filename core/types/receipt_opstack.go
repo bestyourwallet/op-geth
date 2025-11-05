@@ -3,7 +3,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/bestyourwallet/op-geth/params"
 )
 
 // deriveOPStackFields derives the OP Stack specific fields for each receipt.

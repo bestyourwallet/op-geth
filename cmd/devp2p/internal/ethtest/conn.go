@@ -24,13 +24,13 @@ import (
 	"reflect"
 	"time"
 
+	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/bestyourwallet/op-geth/eth/protocols/eth"
+	"github.com/bestyourwallet/op-geth/eth/protocols/snap"
+	"github.com/bestyourwallet/op-geth/p2p"
+	"github.com/bestyourwallet/op-geth/p2p/rlpx"
+	"github.com/bestyourwallet/op-geth/rlp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/eth/protocols/snap"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
-	"github.com/ethereum/go-ethereum/rlp"
 )
 
 var (

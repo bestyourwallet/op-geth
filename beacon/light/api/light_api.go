@@ -28,13 +28,13 @@ import (
 	"sync"
 	"time"
 
+	"github.com/bestyourwallet/op-geth/beacon/merkle"
+	"github.com/bestyourwallet/op-geth/beacon/params"
+	"github.com/bestyourwallet/op-geth/beacon/types"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/common/hexutil"
+	"github.com/bestyourwallet/op-geth/log"
 	"github.com/donovanhide/eventsource"
-	"github.com/ethereum/go-ethereum/beacon/merkle"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/log"
 )
 
 var (

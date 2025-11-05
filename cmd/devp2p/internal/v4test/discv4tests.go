@@ -24,10 +24,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/p2p/discover/v4wire"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/bestyourwallet/op-geth/crypto"
+	"github.com/bestyourwallet/op-geth/internal/utesting"
+	"github.com/bestyourwallet/op-geth/p2p/discover/v4wire"
+	"github.com/bestyourwallet/op-geth/p2p/enode"
 )
 
 const (

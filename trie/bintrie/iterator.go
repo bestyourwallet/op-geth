@@ -19,8 +19,8 @@ package bintrie
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/trie"
 )
 
 var errIteratorEnd = errors.New("end of iteration")

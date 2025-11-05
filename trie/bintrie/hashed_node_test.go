@@ -19,7 +19,7 @@ package bintrie
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/bestyourwallet/op-geth/common"
 )
 
 // TestHashedNodeHash tests the Hash method

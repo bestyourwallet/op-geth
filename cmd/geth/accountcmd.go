@@ -22,11 +22,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/bestyourwallet/op-geth/accounts"
+	"github.com/bestyourwallet/op-geth/accounts/keystore"
+	"github.com/bestyourwallet/op-geth/cmd/utils"
+	"github.com/bestyourwallet/op-geth/common"
+	"github.com/bestyourwallet/op-geth/crypto"
 	"github.com/urfave/cli/v2"
 )
 
